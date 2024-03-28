@@ -1,4 +1,4 @@
-## This repo contains scripts used for spatial QC steps and can also be used for specific analysis parts
+## This repo contains scripts used for spatial QC steps and can also be used for specific analysis steps
 `./scripts` contains the following R scripts, details can be found within each script documentaitons
   - `crop_seurat_v1.R` allows user to crop (or keep) Seurat object FOV part or a dataframe
     - discussion can be found on [Seurat issue here](https://github.com/satijalab/seurat/issues/8457)
